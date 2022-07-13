@@ -8,7 +8,7 @@ This library is used on GitHub.com to detect blob languages, ignore binary or ve
 See [Troubleshooting](#troubleshooting) and [`CONTRIBUTING.md`](/CONTRIBUTING.md) before filing an issue or creating a pull request.
 
 ## Troubleshooting
-
+<!-- added some more information -->
 ### My repository is detected as the wrong language
 
 ![language stats bar](https://cloud.githubusercontent.com/assets/173/5562290/48e24654-8ddf-11e4-8fe7-735b0ce3a0d3.png)
